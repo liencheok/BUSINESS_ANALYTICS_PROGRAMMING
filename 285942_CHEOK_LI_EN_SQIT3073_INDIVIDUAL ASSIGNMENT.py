@@ -97,7 +97,7 @@ def main():
         elif choice == '2':
             display_previous_calculations()
         elif choice == '3':
-            print("Exiting the program. Goodbye!")
+            print("Thank you for using this program. See you next time!")
             sys.exit()
         else:
             print("Invalid choice. Please enter 1, 2, or 3.")
